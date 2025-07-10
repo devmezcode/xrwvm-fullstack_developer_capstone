@@ -124,3 +124,20 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+/* CONTACT US */
+.contact-container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+}
+
+.contact-information {
+    padding: 40px;   
+}
+
+
